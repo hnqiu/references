@@ -12,9 +12,12 @@
 ## Hebbian & STDP
 - BCM: Izhikevich2003a; Izhikevich2006; Izhikevich2007
 - Hebb: Gerstner2002a; Soltoggio2012 (& Stanley) (Modulated Hebb)
-- STDP: Kistler2002; Carlson2013; Carlson2014; Morrison2008
-- EPNN: Urzelai2001; Tonelli2011 (<- Mouret2014)
+- STDP: Kistler2002; Carlson2013; Carlson2014; Morrison2008; Mikaitis2018
+- EPNN: Urzelai2001; Tonelli2011 & Tonelli2013 (& Mouret) (<- Mouret2014);
 - Application: Jin2010 (SpiNNaker); Howard2012a; Yaman2019; Foderaro2010 (Reward Hebb); Burms2015 (Reward Hebb)
+
+## Reward Hebbian
+- Burms2015
 
 
 ## Reviews 
@@ -28,7 +31,7 @@
 ## SNN libs & hardware
 - Auryn: Zenke2014; Gerstner2002a
 - CARLsim: Beyeler2015; Chou2018 -> Carlson2013; Carlson2014; Morrison2008
-- SpiNNaker: Jin2010; Furber2013; Davies2013 (thesis); Zhang2017t (thesis)
+- SpiNNaker: Jin2010; Furber2013; Davies2013 (thesis); Zhang2017t (thesis); Mikaitis2018
 - BindsNET (in Python): Hazan2018
 - Tianjic neuromorphic chip: Pei2019
 
