@@ -3,10 +3,27 @@
 ## UAV
 - SysID: Garratt2012
 - Modeling: Alaimo2013; Santoso2017
+- Nardi2006
+- Shepherd2010
 
 
 ## EA
 - Belatreche2003; Belatreche2007
+
+## NEAT
+- Stanley2002
+- Stanley2003
+- Risi2010
+- Haasdijk2010 (HyperNEAT)
+- Verbancsics2011 (HyperNEAT)
+- Silva2015
+- Whiteson2005
+
+## ER
+- Harvey2005
+- Floreano2008a
+- Mouret2012
+- Mouret2017
 
 
 ## Hebbian & STDP
@@ -28,6 +45,20 @@
 - SNN hardware impl: Bouvier2019
 
 
+## SNN learning
+- Wu2007
+- Chou2017
+- Salt2019
+
+## ESNN
+- Schliebs2013
+- Kasabov2012
+- Eskandari2016
+- Saleh2017
+- Vendesompele2016
+- Qiu2018
+- Qiu2020
+
 ## SNN libs & hardware
 - Auryn: Zenke2014; Gerstner2002a
 - CARLsim: Beyeler2015; Chou2018 -> Carlson2013; Carlson2014; Morrison2008
@@ -36,7 +67,16 @@
 - Tianjic neuromorphic chip: Pei2019
 
 
+## Deep learning in Robotics
+- Punjani2015
+- Pierson2017
+
+## Deep SNN
+- Lee2016
+- Tavanaei2018
+
 ## Others
-- Tavanaei2018: deep SNN
 - Pagliuca2018: comparing different NE algs
+- Cole2019: wind
+- Brandao2019: flappy bird
 
